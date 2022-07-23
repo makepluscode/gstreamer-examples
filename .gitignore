@@ -1,0 +1,8 @@
+# common files
+cmake_install.cmake
+Makefile
+CMakeCache.txt
+CMakeFiles
+
+# executables
+simple-player
